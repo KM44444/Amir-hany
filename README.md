@@ -1,6 +1,6 @@
-# CS211 Web Programming – Lecture 4 (HTML I) Assignment
+# CS211 Web Programming – HTML I Assignment
 
-This repository contains basic HTML examples based on **Lecture 4 – HTML I** (CS211 Web Programming).
+This repository contains basic HTML examples based on **Lecture 2 – HTML I** (CS211 Web Programming).
 
 ## 👤 Student Information
 - **Name:** Amir Hany  
